@@ -1,0 +1,3 @@
+nvm use 24
+pnpm start
+http://localhost:5678
